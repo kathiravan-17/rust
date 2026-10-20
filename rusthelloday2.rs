@@ -7,3 +7,5 @@ fn main(){
 //my_project
   //Cargo.toml project setting 
   //src/main.rs
+ //cd my_project 
+ //cargo run 
